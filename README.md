@@ -1,4 +1,4 @@
-<img width="516" alt="Screenshot 2024-03-22 at 21 05 15" src="https://github.com/RomeoisFushengLuo/Nest-Predation-Project-Mathematic-models-/assets/163822566/51ef56f8-4538-4e8d-9617-406bc14b11c3"># Nest-Predation-Project-Mathematic-models
+Nest-Predation-Project-Mathematic-models
 
 Outline Introduction
 
@@ -8,6 +8,8 @@ The hypothesis is that the investment in hatching and nurturing the remaining eg
 The aim of this project is to analyze through a mathematical model the population dynamics of the gray-capped weavers with tossing and non-tossing strategies. In order to construct this mathematical model you are advised to first identify the key dependent variables. One possibility is to construct a system of ordinary differential equations describing the dynamics among the number of eggs (E), the number of birds (B), and the number of predators (P).
 
 I built two different mathematical models to analyse the effect of egg-tossing in nature. Analysing the Hopf-bifurcation points, I conclude that with or with egg-tossing behaviors, the eco-system of Grey-Capped weavers remains stable but with diverse quantities of predators and preys (weaverbirds).
+
+<img width="516" alt="Screenshot 2024-03-22 at 21 05 15" src="https://github.com/RomeoisFushengLuo/Nest-Predation-Project-Mathematic-models-/assets/163822566/51ef56f8-4538-4e8d-9617-406bc14b11c3">
 
 <img width="384" alt="Screenshot 2024-03-22 at 21 05 33" src="https://github.com/RomeoisFushengLuo/<img width="524" alt="Screenshot 2024-03-22 at 21 05 38" src="https://github.com/RomeoisFushengLuo/Nest-Predation-Project-Mathematic-models-/assets/163822566/60553228-1117-43df-ba3b-daf2e29532f0">
 Nest-Predation-Project-Mathematic-models-/assets/163822566/b17b8573-1a4b-42d0-a8b5-0530ea9c4871">
